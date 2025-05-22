@@ -1,21 +1,27 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        # return nums.index(max(nums)
-        # maxi = -inf
-        # n = len(nums)
-        # low, high = 0, n-1
-        # while low<= high:
-        #     mid = (low+high)//2
+        # return nums.index(max(nums) # simplest way 
 
-        #     if nums[low] <= nums[mid]: #left sorted
-        #         maxi = max(maxi,nums[mid])
-        #         low = mid + 1
-        #     else: #right sorted
-        #         maxi = max(nums[high],maxi)
-        #         high = mid - 1
-        # return mid
         n = len(nums)
-        for i in range(n):
-            if (i==0 or nums[i-1] < nums[i]) and (i == n-1 or nums[i] > nums[i+1]):
-                return i 
+        if len(nums) == 1:
+            return 0
+        if nums[0] > nums[1]:
+            return 0
+        if nums[n-1] > nums[n-2]:
+            return n-1
+        low, high = 1, n-2
+        while low<= high:
+            mid = (low+high)//2
+            if nums[mid] > nums[mid-1] and nums[mid] > nums[mid+1]:
+                return mid
+            elif nums[mid] > nums[mid-1]:
+                low = mid + 1
+            else:
+                high = mid - 1
+        return -1
+
+        # n = len(nums)           #O(N) Time Complexity
+        # for i in range(n):       
+        #     if (i==0 or nums[i-1] < nums[i]) and (i == n-1 or nums[i] > nums[i+1]):
+        #         return i 
         
