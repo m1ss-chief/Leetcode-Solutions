@@ -32,7 +32,7 @@ class Solution:
                 if  nums[mid] == nums[mid-1]:    #single element on right half
                     low = mid + 1
                 else:
-                    high = mid - 1
+                    high = mid - 1  #single element on left half
         return -1
 
 
