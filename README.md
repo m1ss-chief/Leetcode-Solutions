@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
