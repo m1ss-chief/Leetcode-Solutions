@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
