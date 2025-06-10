@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/m1ss-chief/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
