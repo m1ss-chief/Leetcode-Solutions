@@ -1,7 +1,5 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        s = list(s)
-        s.sort()
         res = {}
         ans = ""
         for i in range(len(s)):
